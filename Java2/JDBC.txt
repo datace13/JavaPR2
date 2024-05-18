@@ -1,0 +1,5 @@
+_JDBC API -> JDBC Driver Manager -> JDBC Test Suite -> JDBC-ODBC Bridge
+.
+_Java Application -> JDBC API -> JDBC Diver Manager: + JDBC Driver -> MS SQL Sever
+                                                     + JDBC Driver -> Oracle
+                                                     + JDBC Driver -> ODBC Data Source
